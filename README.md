@@ -13,9 +13,9 @@ SafeAuth is a Python SDK for license management, user authentication, and sessio
 
 ## Installation
 
-```shell script
-pip install safeauth
-```
+- Download repo
+- Put pythonsdk.py in the same project as your python application
+- Check Quick Start/Usage Examples
 
 ## Quick Start
 
@@ -147,4 +147,4 @@ The SDK uses AES encryption for sensitive data and generates a unique hardware I
 
 ## License
 
-Copyright (c) 2023 SafeAuth
+Copyright (c) 2025 SafeAuth
