@@ -1,5 +1,3 @@
-        # SafeAuth Python SDK
-
 ## Overview
 
 SafeAuth is a Python SDK for license management, user authentication, and session management. It provides a secure way to verify software licenses and user credentials, supporting multi-platform hardware ID generation for enhanced security.
