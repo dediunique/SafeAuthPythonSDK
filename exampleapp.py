@@ -1,4 +1,4 @@
-from app.example.pythonsdk import LicenseManager
+from pythonsdk import LicenseManager
 import time
 
 lm = LicenseManager("tsaasdasd")
