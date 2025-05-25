@@ -36,7 +36,7 @@ success, session_token, data = lm.verify_license(license_key)
 
 if success:
     print(f"License verified. Expires at: {data['expires_at']}")
-    print(f"Application: {data['application']}")
+    print(f"Expiration date: {data['expires_at']}")
 else:
     print(f"License verification failed: {session_token}")
 ```
